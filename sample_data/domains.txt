@@ -1,0 +1,5 @@
+# Public example domains plus one that should not resolve
+example.com
+example.org
+example.net
+this-domain-should-not-exist.invalid
